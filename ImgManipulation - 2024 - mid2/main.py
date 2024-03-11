@@ -17,8 +17,11 @@ from PIL.ImageFilter import (
 
 # Create image with merge another to main
 im1 = Image.open("./alone.jpg")
+im1.show()
 im2 = Image.open("./ht.jpg")
+im2.show()
 #resize, first image
+im1 = im1.resize((426, 240))
 image1_size = im1.size
 image2_size = im2.size
 new_image = Image.new('RGB',(2*image1_size[0], image1_size[1]), (250,250,250))
