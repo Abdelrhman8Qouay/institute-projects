@@ -1,0 +1,354 @@
+19. b. View different rows and columns edit the contents of a cell
+
+You can use the horizontal and vertical scroll bars in Excel to navigate through the worksheet and view different rows and columns, allowing you to edit the contents of cells that are not currently visible on the screen.
+
+20. b. array formula
+
+Multiple calculations can be made in a single formula using array formulas in Excel. Array formulas perform operations on multiple values in arrays rather than on individual cells.
+
+21. d. all of the above
+
+Hyperlinks in Excel can be applied to text, drawing objects, pictures, and more. They allow you to navigate to a different location within the same workbook, to a different workbook, to a webpage, or to a specific location within a file or webpage. Therefore, hyperlinks can be applied to text, drawing objects, and pictures, among other elements.
+
+
+
+22. b. The Tab key
+
+To activate the previous cell in a pre-selected range, you can press the Tab key. Pressing Tab moves the selection to the next cell in the range, while Shift+Tab moves the selection to the previous cell.
+
+23. a. The autosum button
+
+To add up a series of numbers in Excel, you can click on the Autosum button (Σ) located in the Editing group on the Home tab. This button automatically suggests a sum formula for the selected range of numbers.
+
+24. d. All of the above
+
+When the formula bar is active in Excel, you can see several buttons:
+
+- The edit formula button (Fx): Allows you to edit the formula in the selected cell.
+- The cancel button (X): Allows you to cancel any changes made to the formula.
+- The enter button (checkmark): Allows you to confirm and apply the changes made to the formula.
+
+
+25. d. The Format Painter button on the standard toolbar
+
+To copy formatting from one area in a worksheet and apply it to another area, you can use the Format Painter button, which is represented by a paintbrush icon, typically found on the standard toolbar. Here's how to use it:
+
+1. Select the cell or range of cells with the formatting you want to copy.
+2. Click on the Format Painter button.
+3. Click and drag over the cell or range of cells where you want to apply the formatting.
+
+26. d. All of the above
+
+In a worksheet, you can select the entire worksheet, columns, rows, or individual cells. So, all of the options are correct.
+
+27. b. The word document contains a reference to the original source application
+
+When you link data maintained in an Excel workbook to a Word document, the Word document contains a reference to the original source application (Excel in this case). This means that the data in the Word document is linked to the Excel workbook, and any changes made in the Excel workbook will be reflected in the Word document.
+
+28. c. Formula bar
+
+The Formula bar in an Excel window allows entering values and formulas. It displays the contents of the active cell and allows users to edit the content, including entering values and formulas.
+
+29. b. Freeze panes command on the window menu
+
+To hold row and column titles in place so that they do not scroll when you scroll a worksheet, you need to use the Freeze Panes command. This option is available in the Window menu in Excel.
+
+30. d. Use the word menu bar and toolbars
+
+To edit an embedded Excel worksheet object in a Word document, you use the Word menu bar and toolbars. You can double-click on the embedded Excel object within the Word document to activate it and make edits using Excel functionality directly within the Word document.
+
+31. d. Value and cell references
+
+To create a formula in Excel, you can use both values and cell references. Formulas in Excel typically involve performing calculations on values stored in cells, and you can reference these cells directly in your formulas. Additionally, you can also use constant values directly in formulas when needed.
+
+32. The correct answer is: d. Standard toolbar
+
+Status indicators, such as Caps Lock, Num Lock, and Scroll Lock indicators, are typically located on the Standard toolbar in Excel.
+
+33. The correct answer is: a. VisiCalc
+
+VisiCalc is widely considered the first electronic spreadsheet program, introduced for the Apple II computer in 1979. It is therefore the oldest spreadsheet package among the options listed.
+
+34. The correct answer is: d. When you show the results of formulas with different decimal places that the calculated results
+
+Rounding errors can occur in Excel when you display the results of formulas with different decimal places than the calculated results. This discrepancy may arise due to how Excel handles and displays floating-point numbers, especially when calculations involve operations like addition, subtraction, multiplication, or division.
+
+35. d. All of the above
+
+You can copy data or formulas in Excel using various methods, including the copy, paste, and cut commands on the Edit menu, commands on the shortcut menu (context menu), and buttons on the standard toolbars.
+
+36. c. With the copy and paste special commands
+
+You cannot link Excel worksheet data to a Word document using the copy and paste special commands. While you can copy and paste data, including linking data using the regular copy and paste commands, linking data in Excel to a Word document typically involves using the Paste Special command with the Paste Link option.
+
+37. d. Lotus 1-2-3
+
+Lotus 1-2-3 is a popular DOS-based spreadsheet package that was widely used in the 1980s and early 1990s before Microsoft Excel became dominant.
+
+38. d. Worksheets and charts
+
+An Excel workbook is a collection of worksheets and charts. It can contain multiple worksheets, each representing a separate spreadsheet, as well as charts and other types of content.
+
+39. a. Xls
+
+Excel files have a default extension of ".xls". This extension is used to identify files created and saved in Microsoft Excel.
+
+40. c. Pressing the Ctrl key and clicking the format painter button
+
+You can use the Format Painter multiple times before turning it off by pressing the Ctrl key and then clicking the Format Painter button. This allows you to apply the same formatting to multiple locations in your Excel worksheet.
+
+41. b. Create and edit formulas containing functions
+
+You can use the Formula Palette in Excel to create and edit formulas containing functions. The Formula Palette provides a list of available functions and assists you in building complex formulas by offering suggestions and syntax guidance.
+
+42. b. Internet assistant wizard
+
+You can convert existing Excel worksheet data and charts to an HTML document by using the Internet Assistant Wizard. The Internet Assistant was a tool provided by Microsoft Office for converting documents into HTML format, allowing them to be published on the web.
+
+43. c. A formula that either directly or indirectly depends on itself
+
+A circular reference in Excel occurs when a formula in a cell refers directly or indirectly to its own cell, creating a loop of dependencies. This can lead to incorrect calculations or an infinite loop of recalculations.
+
+44. d. Auto Outline
+
+Auto Outline is not one of Excel's what-if functions. The other options (Goal Seek, Scenario Manager, and Solver) are all what-if analysis tools in Excel that allow you to analyze data and explore different scenarios.
+
+45. c. Embedded
+
+When you insert an Excel file into a Word document, the data are typically embedded. This means that a copy of the Excel file is stored within the Word document itself. Alternatively, you can choose to link the Excel file, which would create a reference to the original Excel file, but by default, the data are embedded.
+
+46. d. Changing cells
+
+In Excel Solver, you can specify various parameters such as input cells, target cell, and constraints, but you cannot specify "changing cells." Changing cells are actually the cells that Solver adjusts to achieve the desired result. 
+
+47. c. It can contain many sheets including worksheets and chart sheets
+
+Each Excel file is called a workbook because it can contain multiple sheets, including worksheets (where data is stored and manipulated) and chart sheets (where charts/graphs are displayed).
+
+48. b. Value
+
+Excel probably considers the cell entry January 1, 2000, to be a value. In Excel, dates are stored as numerical values, with January 1, 1900, being the value 1. Therefore, January 1, 2000, would have a numeric value associated with it.
+
+49. a. Labels, values, and formulas
+
+You can enter labels (text), values (numbers), and formulas into worksheet cells in Excel. Labels are used for text or headings, values are used for numerical data, and formulas are used to perform calculations based on values.
+
+50. c. Return a formula result
+
+All worksheet formulas in Excel return a formula result. Formulas in Excel are used to perform calculations, manipulate data, and return results based on the specified operations. When you enter a formula into a cell and press Enter, the formula calculates the result, which is then displayed in the cell.
+
+51. b. Multiplication and division, positive and negative values, addition and subtraction
+
+The correct order of precedence in formula calculation in Excel is as follows:
+1. Multiplication and division
+2. Positive and negative values
+3. Addition and subtraction
+
+This means that Excel performs multiplication and division operations before addition and subtraction.
+
+52. d. The resulting values of a formula instead of the actual formula
+
+The Paste Special command in Excel allows you to copy and paste the resulting values of a formula instead of pasting the actual formula itself. This can be useful when you want to paste the calculated values but not the underlying formulas.
+
+53. c. Click the Currency Style button on the formatting toolbar
+
+To format numbers in Excel to display as currency (e.g., $1,000), you can use the Currency Style button on the formatting toolbar. This button applies a predefined currency format to the selected cells, adding dollar signs, commas for thousands separators, and decimals as needed. There is no need to retype everything manually.
+
+54. b. Character
+
+In Excel, the term "Character" is not typically used as a data type. Instead, the common data types are:
+
+- Number: Numeric values, including integers and decimals.
+- Label: Text values or labels.
+- Date/time: Dates and times.
+
+55. c. Text boxes
+
+Excel worksheet cells work very similarly to "Text boxes" in the Windows graphical user interface. Both allow you to input and display text or values.
+
+56. a. Page Break Preview.
+
+The "Page Break Preview" option is not located in the Page Setup dialog box. It is accessible from the View tab in the Ribbon.
+
+57. c. Line chart
+
+For tracking the progress of the stock market on a daily basis, a "Line chart" is typically used. Line charts are ideal for showing trends over time, making them suitable for displaying stock market data.
+
+58. a. Press Ctrl +Home
+
+Pressing Ctrl + Home is the fastest way to get to cell A1 in a spreadsheet without using the mouse or arrow keys. This keyboard shortcut takes you to the beginning of the worksheet.
+
+59. a. Press the Alt key
+
+Pressing the Alt key does not allow you to directly edit the contents of a cell. The other options (clicking the formula bar, pressing the F2 key, and double-clicking the cell) are all valid methods to edit the contents of a cell.
+
+60. b. Press Esc
+
+If you begin typing an entry into a cell and then realize that you don't want your entry placed into a cell, you can press the Esc key to cancel the entry and revert to the original content of the cell.
+
+61. c. position the mouse pointer over the cell
+
+To view a cell comment in Excel, you can position the mouse pointer over the cell with the comment. When you hover the mouse over a cell with a comment, the comment should appear as a pop-up box.
+
+62. a. Click the object command on the insert menu
+
+To insert a blank embedded Excel object in a Word document, you can click the "Object" command on the Insert menu in Microsoft Word. This allows you to embed an Excel worksheet into the Word document.
+
+63. a. Click the save button on the standard toolbar from the menu
+
+To save a workbook in Excel, you can click the save button on the standard toolbar. This button typically looks like a floppy disk icon. Alternatively, you can use the keyboard shortcut Ctrl + S to save the workbook.
+
+64. b. Double clicking the cell to edit it in-place
+
+You can edit a cell in Excel by double-clicking the cell. This activates the cell for in-place editing, allowing you to directly edit the contents of the cell. Alternatively, you can select the cell and then start typing to overwrite the existing content.
+
+65. a. Clicking the upper-left cell in a group of cells and then pressing the Shift key while clicking the lower right cell in a group of cells
+
+You can select a single range of cells by clicking the upper-left cell in the range and then pressing the Shift key while clicking the lower-right cell in the range. This method allows you to select a contiguous range of cells.
+
+66. d. All of above
+
+All elements of a worksheet - contents, objects, and scenarios - can be protected from accidental modification in Excel. Worksheet protection allows you to restrict users from making changes to specific parts of the worksheet.
+
+67. d. a and b
+
+You can use the drag and drop method to both copy and move cell contents in Excel. To copy cell contents, you can drag the selection while holding down the Ctrl key. To move cell contents, you can drag the selection without holding down any additional keys.
+
+68. b. No data will be entered in the adjacent cells
+
+It is acceptable to let long text flow into adjacent cells on a worksheet when no data will be entered in the adjacent cells. This allows the text to flow naturally without interfering with other data. However, it's generally good practice to ensure that text remains within the boundaries of its cell to maintain clarity and organization in the worksheet.
+
+69. d. Click the Delete button on the Standard toolbar
+
+To delete a record in Excel, you can select the entire row containing the record and then click the Delete button on the Standard toolbar. This will remove the selected row from the worksheet.
+
+70. c. Opens a shortcut menu listing everything you can do to the object
+
+In Excel, right-clicking something opens a shortcut menu listing everything you can do to the object. This menu provides quick access to various commands and options related to the selected object.
+
+71. d. All of the above
+
+Documentation for an Excel workbook should include:
+- Destination and users of the output data: Information about where the data generated by the workbook will be used and who will use it.
+- Source of input data: Information about where the input data for the workbook comes from.
+- Information on the purpose of the workbook: Explanation of the purpose or objective of the workbook, including any calculations or analyses performed.
+Including all of this information ensures that the workbook is well-documented and provides context for users who interact with it.
+
+72. d. WK1
+
+Files created with Lotus 1-2-3 have an extension ".WK1". Lotus 1-2-3 was a popular spreadsheet program in the 1980s and early 1990s, and files created with it typically use the ".WK1" extension.
+
+73. b. Select the object by clicking it
+
+To delete an embedded object in Excel, you first need to select the object by clicking on it. Once the object is selected, you can then press the delete key to remove it.
+
+74. b. Insert > Comments
+
+Comments can be added to cells in Excel by using the Insert > Comments command. This allows you to add annotations or notes to cells to provide additional information or context.
+
+75. c. Description
+
+"Description" is not a typical worksheet design criterion. The typical worksheet design criteria include:
+- Efficiency: Ensuring that the worksheet performs tasks quickly and accurately.
+- Auditability: Making it easy to trace and understand calculations.
+- Clarity: Ensuring that the worksheet layout and presentation are clear and understandable.
+
+76. c. Ctrl key
+
+To copy cell contents using drag and drop in Excel, you can press the Ctrl key while dragging the selection. This allows you to create a copy of the cell contents in the destination cells without removing the original contents from the source cell.
+
+77. d. Excel XP
+
+Excel XP (short for Excel 2002) is the latest version listed among the options provided. It was released as a part of the Microsoft Office XP suite of applications.
+
+78. d. Excel doesn't adjust relative cell references
+
+When you copy a formula in Excel, Excel doesn't adjust relative cell references automatically. Relative cell references are maintained in the copied formula, meaning they change relative to the new location of the formula.
+
+79. a. extends a sequential series of data
+
+The autofill feature in Excel extends a sequential series of data based on the pattern identified in the initial selection. This can include sequences of numbers, dates, or text values.
+
+80. d. View > split
+
+The menu option "View > split" can be used to split windows into two in Excel. This option allows you to view two parts of the worksheet simultaneously, which can be helpful for comparing data or navigating large worksheets.
+
+81. a. !A!1
+
+An absolute cell reference in Excel is represented by a dollar sign ($) before the column letter and row number. For example, $A$1 is an absolute cell reference. Among the options provided, none accurately represents the format of an absolute cell reference.
+
+82. d. ' (apostrophe)
+
+The apostrophe symbol (' or single quote) is used before a number to make it a label in Excel. This prevents Excel from interpreting the entry as a numeric value and treats it purely as text.
+
+83. a. =
+
+All formulas in Excel must begin with the equals sign (=). This tells Excel that the entry in the cell is a formula to be calculated rather than text or a label.
+
+84. d. 10+5
+
+The correct way to enter a formula in Excel is to start with an equals sign (=). Therefore, option d. 10+5 is not entered correctly as a formula in Excel.
+
+85. b. =SUM(A1:A5)/(10-10)
+
+Excel will not be able to calculate the formula =SUM(A1:A5)/(10-10) because it includes a division by zero (10-10 equals zero), which is mathematically undefined. This would result in a #DIV/0! error in Excel.
+
+86. b. 256
+
+A typical worksheet in Excel has 256 columns, labeled from A to IV.
+
+87. d. 65535
+
+In Excel, a single cell can hold up to 32,767 characters. However, only 65,535 characters can be displayed in a cell. If you enter more than this limit, only the first 65,535 characters will be visible.
+
+88. d. 65535
+
+A worksheet in Excel can have a maximum of 65,535 rows, numbered from 1 to 65,535.
+
+89. d. Serial Number 50771
+
+In Excel, a serial number such as "50771" is typically not considered an example of a value. Instead, it's often used to represent a date or time value when formatted accordingly.
+
+90. c. A set of values you plot in a chart
+
+In the context of the Chart Wizard, the term "data series" refers to a set of values that you plot in a chart. Each data series typically represents a set of related data points, such as sales figures for different months or years.
+
+91. c. The organization of individual values within a chart's data series
+
+In the context of the Chart Wizard, the term "data categories" refers to the organization of individual values within a chart's data series. These categories are often displayed along the horizontal axis of the chart and represent different groups or labels associated with the data points.
+
+92. c. A group of cells
+
+A worksheet range in Excel is a group of cells. It refers to a contiguous block of cells within a worksheet, which can be specified by indicating the first cell and the last cell in the range (e.g., A1:B10).
+
+93. b. Referencing
+
+Getting data from a cell located in a different sheet is called referencing. In Excel, you can reference cells in other sheets by using their cell addresses along with the sheet name or by using cell references with appropriate syntax.
+
+94. c. Allow you to view additional worksheet columns to the right
+
+Tab scrolling buttons in Excel allow you to view additional worksheet columns to the right. When there are more columns than can be displayed in the window, you can use the tab scrolling buttons to scroll horizontally through the worksheet.
+
+95. a. Apostrophe (')
+
+A numeric value can be treated as a label value in Excel if it is preceded with an apostrophe (' or single quote). This prevents Excel from interpreting the entry as a numeric value and treats it purely as text or a label.
+
+96. d. Ampersand (&)
+
+Concatenation of text can be done using the ampersand (&) operator in Excel. This operator is used to join or concatenate text strings together.
+
+97. d. all of above
+
+Data can be arranged in a worksheet in an easy-to-understand manner using auto formatting, applying styles, and changing fonts. These features help improve the appearance and readability of the data in the worksheet.
+
+98. d. None of above
+
+You cannot use drag-and-drop to embed Excel worksheet data in a Word document directly by dragging a range of Excel data to the Word button on the taskbar. Instead, you typically copy the Excel data and paste it into the Word document.
+
+99. b. Provides a quick way to view the result of an arithmetic operation on a range of cells
+
+The auto calculate feature in Excel provides a quick way to view the result of an arithmetic operation on a range of cells. It allows you to see the sum, average, count, minimum, or maximum of selected cells in the status bar.
+
+100. c. Column letters and row numbers
+
+Excel uniquely identifies cells within a worksheet with a combination of column letters and row numbers. For example, cell A1 refers to the cell in the first column and first row of the worksheet.

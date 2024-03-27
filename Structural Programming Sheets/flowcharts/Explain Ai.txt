@@ -1,0 +1,27 @@
+Flowcharts use various shapes to represent different elements of a process. Here are some common flowchart shapes along with their meanings:
+
+1. **Terminal**: Used to indicate the start or end of a process.
+   ![Terminal](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oval_terminal.png/200px-Oval_terminal.png)
+
+2. **Process**: Represents a process or action to be taken.
+   ![Process](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Rectangle_process.png/200px-Rectangle_process.png)
+
+3. **Decision**: Used to represent a decision point in the process where a yes/no or true/false question is asked.
+   ![Decision](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Diamond_decision.png/200px-Diamond_decision.png)
+
+4. **Input/Output**: Represents input or output of data.
+   ![Input/Output](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Parallelogram_input-output.png/200px-Parallelogram_input-output.png)
+
+5. **Connector**: Used to connect different parts of a flowchart.
+   ![Connector](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Circle_connector.png/200px-Circle_connector.png)
+
+6. **Predefined Process**: Represents a defined sub-process or subroutine.
+   ![Predefined Process](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Rectangle_predefined_process.png/200px-Rectangle_predefined_process.png)
+
+7. **Document**: Represents a document or report.
+   ![Document](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rectangle_document.png/200px-Rectangle_document.png)
+
+8. **Manual Input**: Indicates manual input of data.
+   ![Manual Input](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Trapezoid_manual_input.png/200px-Trapezoid_manual_input.png)
+
+These are some of the most commonly used shapes in flowcharts. Each shape represents a different element or action within the process being described.
